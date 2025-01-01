@@ -1,5 +1,11 @@
 # Celebrity Search (Results) Application - LangChain
 
+Acknowledgement
+---
+I would like to extend my sincere thanks to [Krish Naik](https://github.com/krishnaik06) for his invaluable content and guidance, which helped me build this project. This project wouldn't have been possible without his educational resources.
+
+<br>
+
 About the Project
 ---
 This is a basic LangChain project that helped me understand how to use LLM (Large Language Model) responses to create my own applications, thanks to LangChain tools. The web application is built using Streamlit. It takes the input of a celebrity's name and provides information about them, including their date of birth (DOB) and five major events that occurred around the world on that date. Additionally, the web application attempts to memorize the responses.

@@ -1,0 +1,7 @@
+1. Conda env create : conda create --prefix ./venv python==3.11 -y
+
+2. Activate env : conda activate venv/
+
+3. Install dependencies : pip install -r requirements.txt
+
+4. Running Streamlit Application : streamlit run example1.py

@@ -1,4 +1,4 @@
-# # Celebrity Search (Results) Application - LangChain
+# Celebrity Search (Results) Application - LangChain
 
 About the Project
 ---

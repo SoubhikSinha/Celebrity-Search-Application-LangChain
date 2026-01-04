@@ -5,7 +5,6 @@ About the Project
 This is a basic LangChain project that helped me understand how to use LLM (Large Language Model) responses to create my own applications, thanks to LangChain tools. The web application is built using Streamlit. It takes the input of a celebrity's name and provides information about them, including their date of birth (DOB) and five major events that occurred around the world on that date. Additionally, the web application attempts to memorize the responses.
 
 <br>
-<br>
 
 How to Run the Project ?
 ---
@@ -44,7 +43,6 @@ Run the Streamlit command below to open the web application :<br>
 ```bash
 streamlit run example1.py
 ```
-<br>
 <br>
 
 ## References

@@ -43,7 +43,3 @@ Run the Streamlit command below to open the web application :<br>
 ```bash
 streamlit run example1.py
 ```
-<br>
-
-## References
-[Krish Naik](https://github.com/krishnaik06)
